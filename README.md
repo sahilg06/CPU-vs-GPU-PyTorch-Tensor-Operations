@@ -1,1 +1,1 @@
-# Assignment-for-PandoLabs-Internship
+# CPU VS GPU (Pytorch)
